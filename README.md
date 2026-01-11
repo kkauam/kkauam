@@ -1,4 +1,4 @@
-## Olá!! eu sou o Kauam Jesus Almeida!
+## Olá!! eu sou o Kauam Almeida!
 
 👋 Olá! Meu nome é Kauam Jesus Almeida, tenho 19 anos e sou um futuro Desenvolvedor Back-end.
 Possuo grande interesse no desenvolvimento de sistemas robustos e bem estruturados, com foco em APIs, bancos de dados e boas práticas de programação.
